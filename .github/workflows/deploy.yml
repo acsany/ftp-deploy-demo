@@ -20,3 +20,6 @@ jobs:
         local-dir: ./
         server-dir: ./demo/
         log-level: verbose
+        security: loose
+        protocol: ftp
+        port: 21
